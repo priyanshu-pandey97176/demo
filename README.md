@@ -1,1 +1,1 @@
-# demo
+# this mini project involves creating a simple calculator application using html, css, and javascript. the calculator will perfolm basic arithmetic operation like addition, subtracting, multiplication, and division. It will feature a user family interface, styled with css and logic for hading calculations will be implemented in javascript.
